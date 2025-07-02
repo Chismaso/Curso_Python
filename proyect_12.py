@@ -9,4 +9,4 @@ share_per_person = total / room_guests
 # Esta línea muestra el resultado del cálculo final almacenado
 # en la variable "share_per_person"
 print("Each person needs to pay: " + str(share_per_person))  
-# cambia el tipo de dato a string para concatenar con el texto.
+# !cambia el tipo de dato a string para concatenar con el texto.
